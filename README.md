@@ -1,5 +1,5 @@
 # MySQL Documentation
-> Ref: https://www.markdownguide.org/cheat-sheet/
+
 ## Creating a database
 `CREATE DATABASE [IF NOT EXISTS] database_name;`
 
